@@ -185,7 +185,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Same-Site Cookies
+    | Same-Front Cookies
     |--------------------------------------------------------------------------
     |
     | This option determines how your cookies behave when cross-front requests

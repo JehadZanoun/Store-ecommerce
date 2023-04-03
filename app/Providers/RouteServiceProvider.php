@@ -71,7 +71,7 @@ class RouteServiceProvider extends ServiceProvider
         });
     }
 
-    // Route Site
+    // Route Front
 
     protected function mapSiteRoutes() {
 
